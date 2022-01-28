@@ -5,7 +5,8 @@ In this model we uses Attention Based model to summarize the video. The output o
 Encoder Decoder based Model with Attention Mechanism
 
 # Encoder 
-Bi-Directional LSTM Network
+Bi-Directional LSTM Network.
+
 an encoder converts the input sequence X = {x1, x2, ..., xT } into a representation vector v= {v1,v2, · · · ,vT}.
 
 # Decoder
