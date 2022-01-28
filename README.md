@@ -1,2 +1,2 @@
 # Video-Summarization-Using-Attention-Based-Encoder-Decoder-Model
-In this model we uses Attention Based model to summarize the video. The output of the video will be 15% of the original video as summary. Also It's a supervised Model.
+In this model we uses Attention Based model to summarize the video. The output of the video will be 15% of the original video as summary. Also It's a Supervised Model.
